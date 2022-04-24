@@ -1,1 +1,1 @@
-Coming Soon™
+Someday, this may end up being a cross-platform email client written in F# on top of [Eto.Forms](https://github.com/picoe/Eto). For now, it's serving as a learning project for F# and the .NET ecosystem.
