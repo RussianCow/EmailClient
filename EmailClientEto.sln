@@ -1,0 +1,36 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "EmailClientEto", "EmailClientEto\EmailClientEto.fsproj", "{EAB06A29-A076-4D72-B05A-4F087344B15F}"
+EndProject
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "EmailClientEto.Gtk", "EmailClientEto.Gtk\EmailClientEto.Gtk.fsproj", "{4FC28E7C-4B72-4BBD-8104-240DD53F50E6}"
+EndProject
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "EmailClientEto.Mac", "EmailClientEto.Mac\EmailClientEto.Mac.fsproj", "{6A7E88F7-1502-42E3-828E-084629F81F78}"
+EndProject
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "EmailClientEto.Wpf", "EmailClientEto.Wpf\EmailClientEto.Wpf.fsproj", "{BF7C9A83-8C19-40C5-8A07-0B1124189B13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAB06A29-A076-4D72-B05A-4F087344B15F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAB06A29-A076-4D72-B05A-4F087344B15F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAB06A29-A076-4D72-B05A-4F087344B15F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAB06A29-A076-4D72-B05A-4F087344B15F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FC28E7C-4B72-4BBD-8104-240DD53F50E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC28E7C-4B72-4BBD-8104-240DD53F50E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC28E7C-4B72-4BBD-8104-240DD53F50E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC28E7C-4B72-4BBD-8104-240DD53F50E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A7E88F7-1502-42E3-828E-084629F81F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A7E88F7-1502-42E3-828E-084629F81F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A7E88F7-1502-42E3-828E-084629F81F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A7E88F7-1502-42E3-828E-084629F81F78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF7C9A83-8C19-40C5-8A07-0B1124189B13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7C9A83-8C19-40C5-8A07-0B1124189B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7C9A83-8C19-40C5-8A07-0B1124189B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7C9A83-8C19-40C5-8A07-0B1124189B13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Eto.Forms" Version="2.6.1" />
+    <PackageReference Include="FSharp.Control.Reactive" Version="5.0.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="LoginForm.fs" />
+    <Compile Include="EmailsForm.fs" />
+    <Compile Include="Application.fs" />
+  </ItemGroup>
+</Project>
